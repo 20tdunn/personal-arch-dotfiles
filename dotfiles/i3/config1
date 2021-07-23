@@ -1,4 +1,0 @@
-exec picom -b
-exec amixer sset Master unmute
-exec amixer sset Headphone unmute
-exec amixer sset Speaker unmute
